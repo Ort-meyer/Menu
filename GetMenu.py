@@ -16,6 +16,7 @@ import json
 TODO:
 - Send mail
 - Run as service in Raspberry Pi
+- Get data for right week
 '''
 
 def jprint(jsonText):
